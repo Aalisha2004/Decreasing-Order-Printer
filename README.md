@@ -1,5 +1,4 @@
-
-📉 Decreasing Order Printer (Java)
+# 📉 Decreasing Order Printer (Java)
 A simple Java program that prints numbers from n to 1 using recursion.
 
 🧠 Features
